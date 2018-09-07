@@ -1,5 +1,6 @@
- ABSTRACT
+ABSTRACT
 This design proposal is in regards to the website we have to design and develop in correlation with our chosen video game: TITAN ARENA, selected from Kickstarter.
+
 DATE
 2018-09-07
 
@@ -11,6 +12,7 @@ u16269200 Tobatsi
 DESIGN SPECIFICATIONS
 Overview
 According to the specifications released by our lecturer, we are required to design and develop a website for the game we are either working on for IMY 300 or for a game currently available on KickStarter. 
+
 Requirements for website
 •	Website must incorporate several trends as discussed in class
 •	And must incorporate optimal an interactivity scheme and user experience
@@ -52,22 +54,22 @@ o	Responsive
 o	Dynamic
 •	Design Trends included 
 o	Dynamic Gradient (Rocheleau, 2017)
-	Purple and orange
+   Purple and orange
 •	Due to colour scheme of the main game presentation image
-	Purple and Blue
+   Purple and Blue
 •	Using different shades to convey different aspects of website and to give the website a more cyber-punk and robust tone with a more darker suited format (user), 2017)
 o	Integrated animations
-	Menu transitions and also sub-menu transitions
-	Loading screens and other features
+	Menu transitions and also sub-menu transitions
+ Loading screens and other features
 •	Layout
 o	Conventional Top Page Navigation Bar that blends with the backgrounds colour
 o	Content is structured across the entire screen and isn’t only centred for more freedom of where to place content
 o	Page Numbers: 3-5
-	Home page
-	Core video game information including an update section on development progress
-	External market related video game information
-	External links and iframes coupled with videos and a minor gallery section
-	Any other relevant page we may deem necessary
+	Home page
+	Core video game information including an update section on development progress
+	External market related video game information
+	External links and iframes coupled with videos and a minor gallery section
+	Any other relevant page we may deem necessary
 •	Frameworks
 o	Bootstrap
 Final Design Schematics
