@@ -1,0 +1,45 @@
+
+.gallery {
+	width: 100%;
+	margin: 0 auto;
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	opacity: 1;
+	display: none;
+	position: fixed;
+	left: 0%;
+	z-index: 50;
+	top: 60px;
+	
+}
+.gallery-inside {
+	position: relative;
+	width: 75% !important;
+	left: 15%;
+}
+.thumbnail{
+	background: linear-gradient(-45deg, #D38312, #A83279);
+	padding: 20px;
+	border-radius: 10px;
+	color: black;	
+}
+.thumbnail img{
+	border-radius: 10px;
+}
+.thumbnail:hover {
+	background: linear-gradient(315deg, #A83279, #D38312);
+}
+#rev{
+	margin: 0 auto;
+}
+#glyph{
+	float: right;
+	right: 200px;
+	top: 100px;
+	color: white;
+}
+#cs:hover{
+	background-color: red;
+	opacity: 0.3;
+	cursor: pointer;
+}	
