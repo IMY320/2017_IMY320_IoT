@@ -1,3 +1,5 @@
+Website URL: http://www.webapplication.co.za
+
 ABSTRACT
 This design proposal is in regards to the website we have to design and develop in correlation with our chosen video game: TITAN ARENA, selected from Kickstarter.
 
